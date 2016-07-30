@@ -1,0 +1,9 @@
+E:\my project\c#\keyboard_press_external_detected\keyboard_press_external_detected\bin\Debug\keyboard_press_external_detected.exe.config
+E:\my project\c#\keyboard_press_external_detected\keyboard_press_external_detected\obj\Debug\keyboard_press_external_detected.csprojResolveAssemblyReference.cache
+E:\my project\c#\keyboard_press_external_detected\keyboard_press_external_detected\obj\Debug\keyboard_press_external_detected.Form1.resources
+E:\my project\c#\keyboard_press_external_detected\keyboard_press_external_detected\obj\Debug\keyboard_press_external_detected.Properties.Resources.resources
+E:\my project\c#\keyboard_press_external_detected\keyboard_press_external_detected\obj\Debug\keyboard_press_external_detected.csproj.GenerateResource.Cache
+E:\my project\c#\keyboard_press_external_detected\keyboard_press_external_detected\bin\Debug\keyboard_press_external_detected.exe
+E:\my project\c#\keyboard_press_external_detected\keyboard_press_external_detected\bin\Debug\keyboard_press_external_detected.pdb
+E:\my project\c#\keyboard_press_external_detected\keyboard_press_external_detected\obj\Debug\keyboard_press_external_detected.exe
+E:\my project\c#\keyboard_press_external_detected\keyboard_press_external_detected\obj\Debug\keyboard_press_external_detected.pdb
